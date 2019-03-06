@@ -4,6 +4,7 @@ The main goal of this example is to show how ASP.NET Core and modern client-side
 
 ## Prerequisites
 .NET Core 2.1 (or higher) SDK
+
 Node.js 6.9.0 or higher
 
 ## Getting started
