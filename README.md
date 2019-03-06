@@ -9,8 +9,8 @@ Node.js 6.9.0 or higher
 
 ## Getting started
 ```
-git clone https://github.com/SarathChandarSha/TodoList.git
-cd TODOApplication-React
+git clone https://github.com/SarathChandarSha/TODOApplication.git
+cd TODOApplication-React-master
 dotnet run
 ```
 Browse to https://localhost:5001 to see the working app.
